@@ -46,7 +46,7 @@ header{height:747px;
 .menu ul li{float:left;}
 .menu ul li a{
     text-decoration: none;
-    padding:0 55px;
+    padding:0 54px;
     display:block;
     font-weight: bold;
     font-size:17px;
@@ -94,7 +94,7 @@ header{height:747px;
 .symbol ul li a{text-decoration: none;
     display: block;
     color:black;
-    padding:0 15px;
+    padding:0 14px;
     transition: 0.6s;
 }
 .symbol ul li a:hover{
@@ -238,7 +238,7 @@ footer{
     
 }
 .foot2 ul li a i{
-    padding:0 25px;
+    padding:0 20px;
     font-size: 40px;
     transition:0.6s;
 }
