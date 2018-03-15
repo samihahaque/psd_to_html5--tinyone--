@@ -112,11 +112,11 @@ header{height:747px;
     width:100%;
 }
 #content{
-    min-height:630px;
+    min-height:690px;
 }
 .content{
     font-family: 'PT Sans', sans-serif;
-    min-height:630px;
+    min-height:690px;
 }
 .content_title{
     width:80%;
@@ -167,14 +167,14 @@ header{height:747px;
 }
 .single_part:hover{transform: scale(1.05);}
 footer{
-    min-height:753px;
+    min-height:760px;
     background-color: black;
     color:white;
     font-family: 'PT Sans', sans-serif;
 }
 .footer_content{
     width:100%;
-    min-height:753px;
+    min-height:760px;
 }
 .foot1{
     min-height:265px;
